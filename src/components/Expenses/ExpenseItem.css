@@ -53,4 +53,14 @@
       font-size: 1.25rem;
       padding: 0.5rem 1.5rem;
     }
+    .expense-item__name{
+      font-size: 1rem;
+    font-weight: bold;
+    color: black;
+    background-color: #9cdfd9;
+    border: 1px solid white;
+    padding: 0.5rem;
+    border-radius: 20px;
+
+    }
   }

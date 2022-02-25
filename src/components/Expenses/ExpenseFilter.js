@@ -5,7 +5,7 @@ import './ExpenseFilter.css';
 function ExpensesFilter(props) {
 
   function setNewdate(event) {
-    props.onChnageilter(event.target.value);
+    props.onChangefilter(event.target.value);
   }
 
 
